@@ -1,6 +1,6 @@
 # Universidade Estácio de Sá
 
-## Curso Análise e Desenvolvimento de Sistemas - último período
+## Curso Análise e Desenvolvimento de Sistemas
 
 ### Trabalho da disciplina Programacão para dispositivos móveis em android
 
