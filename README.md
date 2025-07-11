@@ -12,39 +12,72 @@
 
 ### Apresentação
 
-##### ```Tela Login```
+#### ```Tela Login```
+
+<table>
+  <tr>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/01_login.png" alt="Alt1" width="200" />
+    </td>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/02_login.png" alt="Alt2" width="200" />
+    </td>
+  </tr>
+</table>
+
+#### ```Tela Registo de Encomendas```
+
+<table>
+  <tr>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/04_register.png" alt="Tela Registo de Encomendas" width="200" />
+    </td>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/05_register.png" alt="Tela Registo de Encomendas" width="200" />
+    </td>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/06_register.png" alt="Tela para ver Encomendas" width="200" />
+    </td>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/07_register.png" alt="Tela para ver Encomendas" width="200" />
+    </td>
+  </tr>
+</table>
   
-<img src="./my-building-delivery-app/assets/images/project_screens/01_login.png" alt="Tela Login" width="300" />
-
-<img src="./my-building-delivery-app/assets/images/project_screens/02_login.png" alt="Tela Login" width="300" />
-
-##### ```Tela Registo de Encomendas```
+#### ```Tela para ver Encomendas```
   
-<img src="./my-building-delivery-app/assets/images/project_screens/04_register.png" alt="Tela Registo de Encomendas" width="300" />
+<table>
+  <tr>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/08_all_deliveries.png" alt="Tela para ver Encomendas" width="200" />
+    </td>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/09_all_deliveries.png" alt="Tela para ver Encomendas" width="200" />
+    </td>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/10_all_deliveries.png" alt="Tela para ver Encomendas" width="200" />
+    </td>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/11_all_deliveries.png" alt="Tela para ver Encomendas" width="200" />
+    </td>
+  </tr>
+</table>
 
-<img src="./my-building-delivery-app/assets/images/project_screens/05_register.png" alt="Tela Registo de Encomendas" width="300" />
+<table>
+  <tr>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/12_all_deliveries.png" alt="Tela para ver Encomendas" width="200" />
+    </td>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/13_all_deliveries.png" alt="Tela para ver Encomendas" width="200" />
+    </td>
+    <td>
+      <img src="./my-building-delivery-app/assets/images/project_screens/14_all_deliveries.png" alt="Tela para ver Encomendas" width="200" />
+    </td>
+  </tr>
+</table>
 
-<img src="./my-building-delivery-app/assets/images/project_screens/06_register.png" alt="Tela para ver Encomendas" width="300" />
-
-<img src="./my-building-delivery-app/assets/images/project_screens/07_register.png" alt="Tela para ver Encomendas" width="300" />
-
-##### ```Tela para ver Encomendas```
-  
-<img src="./my-building-delivery-app/assets/images/project_screens/08_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
-  
-<img src="./my-building-delivery-app/assets/images/project_screens/09_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
-  
-<img src="./my-building-delivery-app/assets/images/project_screens/10_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
-
-<img src="./my-building-delivery-app/assets/images/project_screens/11_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
-
-<img src="./my-building-delivery-app/assets/images/project_screens/12_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
-
-<img src="./my-building-delivery-app/assets/images/project_screens/13_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
-
-<img src="./my-building-delivery-app/assets/images/project_screens/14_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
-
-#### Funcionalidades
+### Funcionalidades
 
 - Autenticação de Usuários:
   - Login para diferentes perfis:
@@ -79,7 +112,7 @@
 - Persistência de Dados:
   - Utiliza AsyncStorage para armazenar os dados das encomendas localmente no dispositivo, garantindo que as informações não sejam perdidas ao fechar o aplicativo (em um ambiente de simulação sem backend real).
 
-#### Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - Frontend:
   - Framework para construção de interfaces de usuário nativas:
@@ -104,7 +137,7 @@
   - MVC (Model-View-Controller):
     - Separação clara de responsabilidades para organização e manutenção do código.
 
-#### Estrutura de Pastas
+### Estrutura de Pastas
 
 ```markdown
 my-building-delivery-app/
@@ -127,7 +160,7 @@ my-building-delivery-app/
 └── README.md                   # Este arquivo de documentação.
 ```
 
-#### Como Rodar o Projeto (Localmente)
+### Como Rodar o Projeto (Localmente)
 
 - Pré-requisitos:
   - ```Node.js e npm (ou yarn) instalados.```
@@ -156,7 +189,7 @@ my-building-delivery-app/
     - Rodar em um emulador Android ou iOS.
     - Rodar no navegador (algumas funcionalidades nativas podem não funcionar).
 
-#### Credenciais de Teste
+### Credenciais de Teste
 
 - Para testar a aplicação, utilize as seguintes credenciais:
   - Porteiro:
@@ -171,7 +204,7 @@ my-building-delivery-app/
     - Usuário: morador202
     - Senha: 123
 
-#### Considerações Importantes
+### Considerações Importantes
 
 - Persistência de Dados:
   - Os dados são armazenados apenas localmente no dispositivo usando AsyncStorage.
@@ -179,4 +212,16 @@ my-building-delivery-app/
 - Segurança:
   - A autenticação é simplificada para fins de demonstração.
 
-#### Documentações
+### Documentações
+
+- [ReactJs](https://react.dev/)
+
+- [React Native](https://reactnative.dev/docs/getting-started)
+
+- [AsyncStorage](https://reactnative.dev/docs/asyncstorage)
+
+- [Expo](https://expo.dev/)
+  
+- [Formik](https://github.com/jaredpalmer/formik/blob/main/docs/tutorial.md)
+  
+- [Yup](https://www.npmjs.com/package/yup)
