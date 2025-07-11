@@ -4,11 +4,45 @@
 
 ### Trabalho da disciplina Programacão para dispositivos móveis em android
 
-#### Proposta do projeto
+### Proposta do projeto
 
 - Aplicativo de Controle de Encomendas para Prédios
   - Este é um aplicativo móvel desenvolvido com React Native e Expo para auxiliar no controle e gerenciamento de encomendas em edifícios residenciais ou comerciais.
   - Ele permite que a portaria registre a entrada de pacotes e que os moradores visualizem e confirmem o recebimento de suas encomendas.
+
+### Apresentação
+
+##### ```Tela Login```
+  
+<img src="./my-building-delivery-app/assets/images/project_screens/01_login.png" alt="Tela Login" width="300" />
+
+<img src="./my-building-delivery-app/assets/images/project_screens/02_login.png" alt="Tela Login" width="300" />
+
+##### ```Tela Registo de Encomendas```
+  
+<img src="./my-building-delivery-app/assets/images/project_screens/04_register.png" alt="Tela Registo de Encomendas" width="300" />
+
+<img src="./my-building-delivery-app/assets/images/project_screens/05_register.png" alt="Tela Registo de Encomendas" width="300" />
+
+<img src="./my-building-delivery-app/assets/images/project_screens/06_register.png" alt="Tela para ver Encomendas" width="300" />
+
+<img src="./my-building-delivery-app/assets/images/project_screens/07_register.png" alt="Tela para ver Encomendas" width="300" />
+
+##### ```Tela para ver Encomendas```
+  
+<img src="./my-building-delivery-app/assets/images/project_screens/08_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
+  
+<img src="./my-building-delivery-app/assets/images/project_screens/09_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
+  
+<img src="./my-building-delivery-app/assets/images/project_screens/10_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
+
+<img src="./my-building-delivery-app/assets/images/project_screens/11_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
+
+<img src="./my-building-delivery-app/assets/images/project_screens/12_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
+
+<img src="./my-building-delivery-app/assets/images/project_screens/13_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
+
+<img src="./my-building-delivery-app/assets/images/project_screens/14_all_deliveries.png" alt="Tela para ver Encomendas" width="300" />
 
 #### Funcionalidades
 

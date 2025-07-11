@@ -103,11 +103,7 @@ export default function LoginScreen() {
             {/* exibição somente para fins didáticos */}
             <View style={styles.c_container__info_text}>
                 <Text>
-                    Use 'porteiro' ou 'morador101'/'morador202'
-                </Text>
-
-                <Text>
-                    com a senha '123' para testar.
+                    Use 'porteiro' com a senha '123' para testar.
                 </Text>
             </View>
         </View>
