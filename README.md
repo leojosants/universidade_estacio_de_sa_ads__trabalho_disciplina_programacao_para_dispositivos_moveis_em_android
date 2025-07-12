@@ -8,8 +8,8 @@
 
 - Aplicativo de Controle de Encomendas para Prédios
   - Este é um aplicativo móvel desenvolvido com React Native e Expo para auxiliar no controle e gerenciamento de encomendas em edifícios residenciais ou comerciais.
-  - Ele permite que a portaria registre a entrada de pacotes e que os moradores visualizem e confirmem o recebimento de suas encomendas.
-
+  - Ele permite que a portaria registre a entrada de pacotes.
+    
 ### Apresentação
 
 #### ```Tela Login```
