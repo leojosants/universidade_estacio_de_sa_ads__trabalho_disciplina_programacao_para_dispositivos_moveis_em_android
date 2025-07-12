@@ -2,7 +2,7 @@
 
 ## Curso Análise e Desenvolvimento de Sistemas
 
-### Trabalho da disciplina Programacão para dispositivos móveis em android
+### Disciplina Programacão para dispositivos móveis em android
 
 ### Proposta do projeto
 
